@@ -5,5 +5,7 @@ main()
     printf("\t  *\n");
     printf("\t ***\n");
     printf("\t*****\n");
-    printf("\t /|\\");
+    printf("\t /|\\\n");
+
+    printf("  *\n ***\n*****\n /|\\\n"); /* Book solution */
 }
