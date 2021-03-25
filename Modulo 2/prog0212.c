@@ -5,7 +5,7 @@ main()
     char ch1, ch2;
 
     printf("Introduza um caracter: ");
-    scanf("%c", &ch1);
+    scanf(" %c", &ch1);
 
     printf("Introduza novo caracter: ");
     scanf(" %c", &ch2);
