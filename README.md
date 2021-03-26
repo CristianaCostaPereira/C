@@ -2,7 +2,10 @@
 Exercises in C.
 
 ### Módulo 1
-O meu primeiro programa;
+My first programm: O meu primeiro programa;
 
 ### Módulo 2
-Tipos de dados básicos
+Basic data types: Tipos de dados básicos
+
+### Módulo 3
+Tests and Conditions: Testes e Condições
