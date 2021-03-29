@@ -21,6 +21,4 @@ main()
             printf("Estado civil inválido\n");
         }
     }
-
-    
 }
